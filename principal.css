@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* SECCION PRINCIPAL */
+.navbar {
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+#negocio {
+    background-image: url("https://mybighornbasin.com/wp-content/uploads/2018/11/Sports-Banner.jpg");
+    padding: 2% 15%;
+}
+.text-negocio-p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    line-height: 2;
+    text-align: left;
+}
+
+.btn-negocio{
+    margin: 2rem 35rem;
+ padding: 0.5rem 2rem;
+}
+/* PRODUCTOS DESTACADOS*/
+#destacado {
+    padding: 0% 15% 3%;
+}
+
+.text-destacado {
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 2rem;
+}
+.card-destacado{
+    border: 4px dashed;
+}
+.btn-destacado{
+    margin-left: 6rem;
+}
+/* CONTACTOS */
+#contac-me{
+    padding: 2% 15%;
+    background-color: grey;
+}
+.text-contac{
+    text-align: center;
+    padding-bottom: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-contac{
+    margin: 2rem auto 0;
+    width: 30rem;
+}
+.textarea-contac{
+    border-radius: 3%;
+}
+.btn-contac-pr{
+    margin-left:15rem;
+}
+.btn-contac{
+    margin: 0 1rem;
+}
+.footer-sports{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 3rem 0 2rem;
+}
+/* SECCION PRODUCTO */
+.nav-producto {
+    margin: 0 auto;
+}
+
+#productos{
+    padding: 2% 15%;
+    background-color: #d3d2d2;
+}
+.card-producto{
+    margin: 0.5rem;
+}
+.card-body-producto{
+    color: white;
+    background-color: black;
+}
+.card-body-producto-ult{
+    margin-top: 3.5rem;
+    color: white;
+    background-color: black;
+}
+.btn-producto{
+    margin: 0 15rem;
+}
+.div-img{
+    height: 32rem;
+    overflow: hidden;
+}
+.img-producto{
+    margin-top: -1rem;
+    max-width: 100%;
+}
+/* Pie de pagina */
+.footer-sports-producto{
+    clear: both;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 3rem 0 2rem;
+    background-color: #d3d2d2;
+}
+/* SECCION ADMINISTRACION*/
+#administracion{
+    padding: 6% 15% 5%;
+    background-color: grey;
+}
+.profile-adm{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 35rem;
+}
+.profile-es{
+    margin-top: -5rem;
+    height: 35rem;
+    width: 61.7rem;
+    margin-left: -0.6rem;
+    clip-path: inset(4rem 0 0.5rem);
+}
+.body-adm{
+    background-color: #919191;
+}
+.img-profile{
+    width: 60%;
+    border-radius: 100%;
+    margin: 0 auto;
+
+}
+.btn-adm{
+    margin-top: 3rem;
+    padding: 0.7rem 4rem;
+}
+.btn-adm-two{
+ margin-top: 2rem;
+ padding: 0.7rem 3rem;
+}
+.btn-adm-three{
+    margin-top: 2rem;
+    padding: 0.7rem 6.5rem;
+}
+.form-group{
+    line-height: 3;
+    text-align: left;
+}
+/* REGISTRO DE VENTA y COMPRA*/
+.registro{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 35rem;
+}
+.body-registro{
+    background-color: #919191;
+}
+.btn-one{
+ margin: 1rem;
+
+}
+.btn-two{
+    margin: 1rem 2rem;
+}
+textarea{
+    border-radius: 2%;
+    margin: -0.4rem 0 -1.5rem;
+    padding: 0;
+}
+/* Pie de pagina */
+.footer-sports-adm{
+    text-align: center;
+    padding: 2rem 0 0;
+}
